@@ -1,5 +1,4 @@
-## Szymon Protyński
-
+![Flux_Dev_Create_a_stunning_logo_featuring_the_prominent_name_S_2](https://github.com/user-attachments/assets/dc22f7d6-be04-4a77-8d60-0a33eafa5404)
 <!--
 **eTraveler04/eTraveler04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
