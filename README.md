@@ -1,4 +1,4 @@
-![Uploading Flux_Dev_Create_a_logo_featuring_my_name_Szymon_Protynski_as_t_1.jpeg…]()
+![Flux_Dev_Create_a_logo_featuring_my_name_Szymon_Protynski_as_t_1](https://github.com/user-attachments/assets/f203f294-6bc5-4607-bf39-c0c883ecb8b2)
 <!--![Uploading Flux_Dev_create_a_logo_with_my_name_Szymon_Protynski_on_it_You_3.jpeg…]()
 
 **eTraveler04/eTraveler04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
