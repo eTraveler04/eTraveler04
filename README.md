@@ -1,5 +1,6 @@
-![Flux_Dev_Create_a_stunning_logo_featuring_the_prominent_name_S_2](https://github.com/user-attachments/assets/dc22f7d6-be04-4a77-8d60-0a33eafa5404)
-<!--
+![Flux_Dev_create_a_logo_with_my_name_Szymon_Protynski_on_it_You_3](https://github.com/user-attachments/assets/5767ae3b-d8c5-4810-aff2-1eb75e775275)
+<!--![Uploading Flux_Dev_create_a_logo_with_my_name_Szymon_Protynski_on_it_You_3.jpeg…]()
+
 **eTraveler04/eTraveler04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
