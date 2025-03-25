@@ -1,3 +1,4 @@
+![Flux_Dev_Image_is_a_digital_illustration_of_a_sports_car_speci_0-removebg](https://github.com/user-attachments/assets/1e192cad-c648-41a3-874d-dd65dda42029)
 # 🧠 Studying Computer Science at Politechnika Wrocławska 
 
 # 💻 Tech Stack:
