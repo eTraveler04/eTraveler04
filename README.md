@@ -4,8 +4,8 @@ Hi! I'm a Computer Science student at Wrocław University of Science and Technol
 
 # 🛠️ Current Projects
 
-## 📱 DailyQuote – Mobile App
-A minimalist app for storing, organizing, and revisiting your favorite quotes. Built with Swift, focused on intuitive UX and personal inspiration.
+## 📱 Pause – Mobile App
+A minimalist app that helps you create physical barrier between you and distractions from your phone.
 
 ## 🏎️ Chrono Race 3000 – Telemetry System
 A telemetry and dashboard system for a race car. Tracks live racing data for performance analysis and optimization. Uses IoT, TypeScript, and real-time data visualization.
