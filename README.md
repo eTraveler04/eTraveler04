@@ -1,5 +1,6 @@
-![Flux_Dev_Image_is_a_digital_illustration_of_a_sports_car_speci_0-removebg](https://github.com/user-attachments/assets/1e192cad-c648-41a3-874d-dd65dda42029)
+<img width="2084" height="2084" alt="png-01" src="https://github.com/user-attachments/assets/1bf94478-f384-4196-bab1-25393a729370" />
 # 👋 About Me
+
 Hi! I'm a Computer Science student at Wrocław University of Science and Technology 🇵🇱 and an active member of the Solvro student science club 🧠. I enjoy designing practical applications that solve real problems and help bring ideas to life through code.
 
 # 🛠️ Current Projects
