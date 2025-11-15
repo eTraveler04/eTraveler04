@@ -1,4 +1,4 @@
-<img width="2084" height="2084" alt="png-01" src="https://github.com/user-attachments/assets/1bf94478-f384-4196-bab1-25393a729370" />
+![POSE (1 2) (1)](https://github.com/user-attachments/assets/4ee578e1-895e-4bc5-9756-9ab2d4c0cc52)
 # 👋 About Me
 
 Hi! I'm a Computer Science student at Wrocław University of Science and Technology 🇵🇱 and an active member of the Solvro student science club 🧠. I enjoy designing practical applications that solve real problems and help bring ideas to life through code.
