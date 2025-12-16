@@ -1,4 +1,4 @@
-<img width="2084" height="2084" alt="png-01" src="https://github.com/user-attachments/assets/ef2ff1b9-13c3-4730-987e-b4e5365da478" />
+<img width="1024" height="1024" alt="png-01" src="https://github.com/user-attachments/assets/ef2ff1b9-13c3-4730-987e-b4e5365da478" />
 
 # 👋 About Me
 
