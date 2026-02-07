@@ -25,12 +25,6 @@ There is also a **dedicated website for the project**, built with **React, WordP
 
 ---
 
-### 🏎️ **Chrono Race 3000 – Telemetry System**  
-A real-time telemetry and dashboard system for a race car.  
-It collects, visualizes, and analyzes performance data using **IoT, TypeScript, and live data visualization**.
-
----
-
 ### 🌐 **FullStack — Web App (Construction Materials System)**  
 A production-oriented full-stack system supporting management and verification of construction material deliveries.
 
@@ -43,6 +37,12 @@ Key features and architecture:
 - Used **PostgreSQL** as the production database and **SQLite** during early prototyping.  
 - Dockerized backend and database services for reliable deployment.  
 - Deployed and maintained infrastructure on **AWS**.
+
+---
+
+### 🏎️ **Chrono Race 3000 – Telemetry System**  
+A real-time telemetry and dashboard system for a race car.  
+It collects, visualizes, and analyzes performance data using **IoT, TypeScript, and live data visualization**.
 
 ---
 
