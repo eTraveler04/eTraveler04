@@ -1,4 +1,4 @@
-# 👋 Hey! I'm eTraveler04  
+# 👋 Hey! I'm Szymon
 
 ### 🎓 Computer Science Student | Wrocław University of Science and Technology  
 
@@ -67,19 +67,9 @@ Key features and architecture:
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eTraveler04&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false"/>
-<br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=eTraveler04&theme=blueberry&hide_border=false"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eTraveler04&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-</p>
-
----
-
 ## 🌐 Let's Connect  
 
+www.linkedin.com/in/szymon-protynski
+
+
 Feel free to reach out or check out my repositories!  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
