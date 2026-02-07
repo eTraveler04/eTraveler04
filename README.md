@@ -15,10 +15,11 @@ A mobile application that, together with a **physical NFC tag**, helps you build
 The idea is simple: by interacting with a physical object, you intentionally switch into a focused mode — making digital distractions harder to access and helping you stay present.
 
 The app is developed for both major mobile platforms:  
-- **iOS (Swift):** _[link to App Store – add here]_  
-- **Android (Kotlin):** _[link to Google Play – add here]_  
+- **iOS (Swift):** https://apps.apple.com/pl/app/pause-distractions/id6752442147  
+- **Android (Kotlin):** https://play.google.com/store/apps/details?id=pl.paused&hl=pl  
 
-There is also a **dedicated website for the project**, built with **React, WordPress, and WooCommerce**, which serves both as an informational page and an online store for the NFC device.
+There is also a **dedicated website for the project**, built with **React, WordPress, and WooCommerce**, which serves both as an informational page and an online store for the NFC device:  
+👉 https://paused.pl/
 
 > ⚠️ Note: the website may not be fully functional at the moment, as I am currently implementing a new store backend in **Node.js**.
 
@@ -27,6 +28,19 @@ There is also a **dedicated website for the project**, built with **React, WordP
 ### 🏎️ **Chrono Race 3000 – Telemetry System**  
 A real-time telemetry and dashboard system for a race car.  
 It collects, visualizes, and analyzes performance data using **IoT, TypeScript, and live data visualization**.
+
+---
+
+### 🌐 **FullStack — Web App (Construction Materials System)**  
+A production-oriented full-stack system supporting management and verification of construction material deliveries.
+
+Key features and architecture:  
+- Built a modern frontend using **Next.js, React, TypeScript, and Tailwind CSS**.  
+- Designed and implemented a **REST API backend in FastAPI (Python)**.  
+- Integrated **LLM-based AI document parsing** to automatically extract and match delivery note data with stored materials.  
+- Used **PostgreSQL** as the production database and **SQLite** during early prototyping.  
+- Dockerized backend and database services for reliable deployment.  
+- Deployed and maintained infrastructure on **AWS**.
 
 ---
 
@@ -45,6 +59,10 @@ It collects, visualizes, and analyzes performance data using **IoT, TypeScript, 
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
