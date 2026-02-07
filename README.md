@@ -72,6 +72,6 @@ It collects, visualizes, and analyzes performance data using **IoT, TypeScript, 
 ## 🌐 Let's Connect  
 
 www.linkedin.com/in/szymon-protynski
-
+https://www.facebook.com/szymon.protynski/
 
 Feel free to reach out or check out my repositories!  
