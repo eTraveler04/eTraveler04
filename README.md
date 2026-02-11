@@ -19,7 +19,7 @@ The app is developed for both major mobile platforms:
 - **Android (Kotlin):** https://play.google.com/store/apps/details?id=pl.paused&hl=pl  
 
 There is also a **dedicated website for the project**, built with **React, WordPress, and WooCommerce**, which serves both as an informational page and an online store for the NFC device:  
-👉 https://legacy-pause-web-orsv.vercel.app/
+👉 https://legacy-pause-web.vercel.app/
 
 > ⚠️ Note: the website may not be fully functional at the moment, as I am currently implementing a new store backend in **Node.js**.
 
