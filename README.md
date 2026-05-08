@@ -21,12 +21,12 @@ The app is developed for both major mobile platforms:
 There is also a **dedicated website for the project**, built with **React, WordPress, and WooCommerce**, which serves both as an informational page and an online store for the NFC device:  
 👉 https://www.paused.pl/
 
-> ⚠️ Note: the website may not be fully functional at the moment, as I am currently implementing a new store backend in **Node.js**.
+> ⚠️ Note: the website may not be fully functional at the moment, as I am currently implementing a new features
 
 ---
 
-### 🌐 **FullStack — Web App (Construction Materials System)**  
-A production-oriented full-stack system supporting management and verification of construction material deliveries.
+### 🌐 **Construction Materials System**  
+System supporting management and verification of construction material deliveries (invoices).
 
 See the code here 👉 https://github.com/Construction-Materials
 
