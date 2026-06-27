@@ -25,21 +25,6 @@ There is also a **dedicated website for the project**, built with **React, WordP
 
 ---
 
-### 🌐 **Construction Materials System**  
-System supporting management and verification of construction material deliveries (invoices).
-
-See the code here 👉 https://github.com/Construction-Materials
-
-Key features and architecture:  
-- Built a modern frontend using **Next.js, React, TypeScript, and Tailwind CSS**.  
-- Designed and implemented a **REST API backend in FastAPI (Python)**.  
-- Integrated **LLM-based AI document parsing** to automatically extract and match delivery note data with stored materials.  
-- Used **PostgreSQL** as the production database and **SQLite** during early prototyping.  
-- Dockerized backend and database services for reliable deployment.  
-- Deployed and maintained infrastructure on **AWS**.
-
----
-
 ### 🏎️ **Chrono Race 3000 – Telemetry System**  
 A real-time telemetry and dashboard system for a race car.  
 It collects, visualizes, and analyzes performance data using **IoT, TypeScript, and live data visualization**.
