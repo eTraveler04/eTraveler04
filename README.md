@@ -19,7 +19,7 @@ The app is developed for both major mobile platforms:
 - **Android (Kotlin):** https://play.google.com/store/apps/details?id=pl.paused&hl=pl  
 
 There is also a **dedicated website for the project**
-👉 https://www.pawse.pl/
+👉 https://pawse.pl/pl
 
 ---
 
