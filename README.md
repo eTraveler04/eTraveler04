@@ -9,19 +9,17 @@ I enjoy building practical applications that solve real problems and bring ideas
 
 ## 🚀 Current Projects  
 
-### 📱 **Pause – Mobile App + NFC Device**  
+### 📱 **Pawse**  
 A mobile application that, together with a **physical NFC tag**, helps you build a real, tangible barrier between you and distracting apps on your phone.  
 
-The idea is simple: by interacting with a physical object, you intentionally switch into a focused mode — making digital distractions harder to access and helping you stay present.
+The idea is simple: by interacting with a physical object (Pawse), you intentionally switch into a focused mode — making digital distractions harder to access and helping you stay present.
 
 The app is developed for both major mobile platforms:  
 - **iOS (Swift):** https://apps.apple.com/pl/app/pause-distractions/id6752442147  
 - **Android (Kotlin):** https://play.google.com/store/apps/details?id=pl.paused&hl=pl  
 
-There is also a **dedicated website for the project**, built with **React, WordPress, and WooCommerce**, which serves both as an informational page and an online store for the NFC device:  
-👉 https://www.paused.pl/
-
-> ⚠️ Note: the website may not be fully functional at the moment, as I am currently implementing a new features
+There is also a **dedicated website for the project**
+👉 https://www.pawse.pl/
 
 ---
 
